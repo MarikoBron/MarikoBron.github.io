@@ -1,11 +1,19 @@
 ---
-title: "MarikoBron.github.io"
+title: "Mariko Bronson"
+image: desertpic.jpeg
+toc: false
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 10em
+  image-title: Me after digging holes in the Mojave Desert for 10 hours
+  links:
+    - text: GitHub
+      href: https://github.com/MarikoBron
+    - text: Email
+      href: mailto:marikobron@gmail.com
 ---
 
-This is a Quarto website.
+About me:
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi guys! My name is Mariko, and I'll be graduating UCSB as an Environmental Studies B.S major. I'll be spending this upcoming fall in Australia engaging in marine biology and terrestrial ecology fieldwork, and am especially excited to see the Great Barrier Reef, the fantastic Australian bugs, and maybe even meet a Kiwi bird.
