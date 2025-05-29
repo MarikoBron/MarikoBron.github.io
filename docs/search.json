@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mariko Bronson",
     "section": "",
     "text": "About me:\nHi guys! My name is Mariko, and I’ll be graduating UCSB as an Environmental Studies B.S major. I’ll be spending this upcoming fall in Australia engaging in marine biology and terrestrial ecology fieldwork, and am especially excited to see the Great Barrier Reef, the fantastic Australian bugs, and maybe even meet a Kiwi bird."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
