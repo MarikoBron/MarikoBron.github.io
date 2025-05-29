@@ -1,5 +1,5 @@
 ---
-title: "Project_page"
+title: "My Favorite Projects"
 format: html
 ---
 
