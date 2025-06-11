@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "About this site\nI grew up in Tokyo, Japan, and moved to California when I was 6 years old. I always planned on becoming a veterinarian, but in high school I took AP Environmental Science and immediately changed my trajectory. I’ll be spending this upcoming fall in Australia doing marine biology and ecology fieldwork, and am especially excited to see their unique stick insects and the Great Barrier Reef. Aside from ecology, my core interests include clean energy, sustainable innovations, urban planning, and soil science."
+    "text": "I grew up in Tokyo, Japan, and moved to California when I was 6 years old. I always planned on becoming a veterinarian, but in high school I took AP Environmental Science which immediately changed my trajectory. I’ll be spending this upcoming fall in Australia doing marine biology and ecology fieldwork, and am especially excited to see their unique stick insects and the Great Barrier Reef. Aside from ecology, my core interests include clean energy, sustainable innovations, urban planning, and soil science.\nOutside of school, my interests include cooking, bugs, Pokemon, and taking pictures. To see more about my photography, check out the photography tab!"
   },
   {
     "objectID": "Project_page.html",
@@ -19,5 +19,40 @@
     "title": "My Favorite Projects",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "freeforall_page.html",
+    "href": "freeforall_page.html",
+    "title": "Tidbits",
+    "section": "",
+    "text": "I"
+  },
+  {
+    "objectID": "about.html#cooking",
+    "href": "about.html#cooking",
+    "title": "About Me",
+    "section": "Cooking",
+    "text": "Cooking\nI enjoy attempting to create my own recipes even though sometimes it means I end up with a pretty weird dinner. Here are some of my favorite meals I’ve made!"
+  },
+  {
+    "objectID": "about.html#bugs",
+    "href": "about.html#bugs",
+    "title": "About Me",
+    "section": "Bugs",
+    "text": "Bugs\nI’m really excited to check out the bugs in Australia! I’ll upload the best Australian bugs to my Critters of Australia tab."
+  },
+  {
+    "objectID": "aus_creatures.html",
+    "href": "aus_creatures.html",
+    "title": "Critters of Australia",
+    "section": "",
+    "text": "Once I’m back from Australia, I’ll upload my favorite plants, bugs, and animals! Stay tuned :)"
+  },
+  {
+    "objectID": "about.html#pokémon",
+    "href": "about.html#pokémon",
+    "title": "About Me",
+    "section": "Pokémon",
+    "text": "Pokémon\nI grew up on Pokémon- watching the show, playing the games, and collecting the cards. Now, I get my Poké fix from Pokémon Go, and I’m proud to show you some of my best finds."
   }
 ]

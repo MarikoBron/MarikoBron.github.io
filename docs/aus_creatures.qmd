@@ -1,5 +1,6 @@
 ---
-title: "aus_creatures"
+title: "Critters of Australia"
 format: html
 ---
 
+Once I'm back from Australia, I'll upload my favorite plants, bugs, and animals! Stay tuned :)

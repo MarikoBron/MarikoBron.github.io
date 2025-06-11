@@ -2,9 +2,7 @@
 title: "About Me"
 ---
 
-# About Me
-
-I grew up in Tokyo, Japan, and moved to California when I was 6 years old. I always planned on becoming a veterinarian, but in high school I took AP Environmental Science and immediately changed my trajectory. I'll be spending this upcoming fall in Australia doing marine biology and ecology fieldwork, and am especially excited to see their unique stick insects and the Great Barrier Reef. Aside from ecology, my core interests include clean energy, sustainable innovations, urban planning, and soil science.
+I grew up in Tokyo, Japan, and moved to California when I was 6 years old. I always planned on becoming a veterinarian, but in high school I took AP Environmental Science which immediately changed my trajectory. I'll be spending this upcoming fall in Australia doing marine biology and ecology fieldwork, and am especially excited to see their unique stick insects and the Great Barrier Reef. Aside from ecology, my core interests include clean energy, sustainable innovations, urban planning, and soil science.
 
 Outside of school, my interests include cooking, bugs, Pokemon, and taking pictures. To see more about my photography, check out the photography tab!
 
