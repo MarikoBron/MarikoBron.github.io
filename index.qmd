@@ -1,21 +1,20 @@
 ---
 title: "Mariko Bronson"
-image: desertpiccrop.jpeg
+image: photos/desertpiccrop.png
 toc: false
 about: 
   template: solana
   image-shape: rounded
-  image-width: 12em
-  image-title: Me after digging holes in the Mojave Desert for 10 hours
+  image-width: 20em
   links:
     - icon: github
       text: GitHub
       href: https://github.com/MarikoBron
-    - icon: email
+    - icon: envelope
       text: Email
       href: mailto:marikobron@gmail.com
 ---
 
-# About me:
+# Welcome!
 
-Hi guys! My name is Mariko, and I'll be graduating UCSB with a B.S. in Environmental Studies. I'll be spending this upcoming fall in Australia engaging in marine biology and terrestrial ecology fieldwork, and am especially excited to see the Great Barrier Reef, the fantastic Australian bugs, and maybe even meet a Kiwi bird.
+My name is Mariko, and I'll be graduating UCSB with a B.S. in Environmental Studies. This is my personal website where I'll be sharing some of my interests! Above, you can access my Github or my contact information. 

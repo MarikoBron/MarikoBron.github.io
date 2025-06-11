@@ -1,9 +1,21 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
 
-```{r}
-1 + 1
-```
+I grew up in Tokyo, Japan, and moved to California when I was 6 years old. I always planned on becoming a veterinarian, but in high school I took AP Environmental Science and immediately changed my trajectory. I'll be spending this upcoming fall in Australia doing marine biology and ecology fieldwork, and am especially excited to see their unique stick insects and the Great Barrier Reef. Aside from ecology, my core interests include clean energy, sustainable innovations, urban planning, and soil science.
+
+Outside of school, my interests include cooking, bugs, Pokemon, and taking pictures. To see more about my photography, check out the photography tab!
+
+## Cooking
+
+I enjoy attempting to create my own recipes even though sometimes it means I end up with a pretty weird dinner. Here are some of my favorite meals I've made!
+
+## Bugs
+
+I'm really excited to check out the bugs in Australia! I'll upload the best Australian bugs to my Critters of Australia tab.
+
+## Pokémon
+
+I grew up on Pokémon- watching the show, playing the games, and collecting the cards. Now, I get my Poké fix from Pokémon Go, and I'm proud to show you some of my best finds.

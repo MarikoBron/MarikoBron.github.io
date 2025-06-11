@@ -12,7 +12,7 @@ website:
       - Project_page.qmd
       - freeforall_page.qmd
       - resume_page.qmd
-
+      - aus_creatures.qmd
 format:
   html:
     theme: cosmo
