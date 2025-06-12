@@ -2,3 +2,5 @@
 title: "resume"
 format: html
 ---
+
+![](docs/Resume(2).pdf){fig-align="center" width="9in" height="10in"}
