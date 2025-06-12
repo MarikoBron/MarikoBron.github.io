@@ -4,6 +4,7 @@ format: html
 listing:
   contents: posts
   type: grid
+  categories: false
 seach: true
 ---
 

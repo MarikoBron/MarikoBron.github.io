@@ -1,0 +1,11 @@
+---
+title: "Screentime Study"
+description: A study I conducted to identify the cause of high screentime
+image: screentime-preview.png
+date: 06-11-2025
+draft: false
+format: html
+---
+
+In my Data Science class, we used R Studios to conduct our own study on a topic of our choice. My screentime had been abnormally high lately, and sometimes I felt like it was actually higher on days where I had things due. I wondered if this was in my head or a real stress response, and decided to see if I could find the root cause.
+
