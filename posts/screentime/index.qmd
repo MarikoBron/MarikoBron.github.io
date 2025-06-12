@@ -91,7 +91,9 @@ screentime_plot <- ggplot(screentime_altered,
   theme_minimal() +
   theme(
     panel.grid = element_blank(),
-    panel.border = element_rect(fill = NA)
+    panel.border = element_rect(fill = NA),
+    plot.title = element_text(size = 10),
+    plot.margin = margin(t = 20, r = 10, b = 10, l = 10)
   ) +
   
 #add title, axis labels, color key
