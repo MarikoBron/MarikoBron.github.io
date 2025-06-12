@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet");
+
+// Colors
+$lightsage: #D0E0D3;
+$darksage: #607562;
+$brown: #B8A080;
+$cream: #F7F3DE;
+$pink: #FABBF7;
+$purple: #493870;
+
+//Base document colors
+$body-bg: $lightsage;
+$body-color: $purple;
+$navbar-fg: $darksage;
+$navbar-bg: $cream;
+$link-color: $pink;
+
+// Inline code
+$code-bg: $cream; 
+$code-color: $purple; 

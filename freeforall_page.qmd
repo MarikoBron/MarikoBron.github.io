@@ -1,6 +1,22 @@
 ---
-title: "Tidbits"
+title: "Photography"
 format: html
 ---
 
-I
+My friend got me a digital camera for my birthday this winter(a Canon PowerShot A3100)! Here are some of my favorite photos I've taken on it.
+
+![A swan in New Orleans](photos/swan.jpeg)
+
+![Me carrying some tools for a soil expedition in the Mojave](photos/wielding.jpeg)
+
+![Some lovely drinks I got at Kin Bakeshop in Goleta. From left to right: Thai Tea Cream Top, Hojicha with Cookie Butter Cream, and my favorite- the Double Matcha](photos/matcha.jpeg)
+
+![Some incredible Chumash petroglyphs at Granite Mountain](photos/cave.jpeg)
+
+![A concert for Kendrick Lamar and SZA](photos/kensza.jpeg)
+
+![Another picture from the beautiful Mojave](photos/desert.jpeg)
+
+![Moreton Bay Fig Tree in Santa Barbara- the largest fig tree in America!](photos/figtree.jpeg)
+
+![Me taking graduation photos after fracturing my knee :')](photos/grad.jpeg)
