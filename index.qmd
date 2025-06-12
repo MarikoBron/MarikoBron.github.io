@@ -5,7 +5,7 @@ toc: false
 about: 
   template: solana
   image-shape: rounded
-  image-width: 20em
+  image-width: 24em
   links:
     - icon: github
       text: GitHub
@@ -17,4 +17,4 @@ about:
 
 # Welcome!
 
-My name is Mariko, and I'll be graduating UCSB with a B.S. in Environmental Studies. This is my personal website where I'll be sharing some of my interests! Above, you can access my Github or my contact information. 
+My name is Mariko, and I'll be graduating UCSB with a B.S. in Environmental Studies. This is my personal website where I'll be sharing some of my interests and favorite projects! Above, you can access my Github or my contact information. 
