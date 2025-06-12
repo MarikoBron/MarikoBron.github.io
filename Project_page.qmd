@@ -1,7 +1,10 @@
 ---
-title: "My Favorite Projects"
+title: "Projects"
 format: html
 listing:
-  contents: projects
+  contents: posts
   type: grid
+seach: true
 ---
+
+Some of my favorite projects.
