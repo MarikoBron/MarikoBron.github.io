@@ -5,7 +5,7 @@ listing:
   contents: posts
   type: grid
   categories: false
-seach: true
+search: true
 ---
 
 Some of my favorite projects.
