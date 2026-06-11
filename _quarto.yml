@@ -4,7 +4,11 @@ project:
 
 website:
   title: "MarikoBron.github.io"
+  favicon: photos/weevlogo.png 
   navbar:
+    title: false
+    logo: photos/weevlogo.png
+    logo-alt: "weevil logo"
     left:
       - href: index.qmd
         text: Home
@@ -13,10 +17,12 @@ website:
       - freeforall_page.qmd
       - resume_page.qmd
       - aus_creatures.qmd
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - styles.scss
+      - cosmo
     toc: true
 
 editor: visual
