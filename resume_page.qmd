@@ -3,9 +3,5 @@ title: "Resume"
 format: html
 ---
 
-<<<<<<< HEAD
-![](files/"resume-5-3-26.pdf"){fig-align="center" width="9in" height="10in"} 
+<iframe src="files/resume-5-3-26.pdf" width="100%" height="900px"></iframe>
 
-=======
-![](docs/"resume-5-3-26.pdf"){fig-align="center" width="9in" height="10in"}
->>>>>>> 254a5e0f7f13bda31f8e2531f173a01a7ba3df15
