@@ -3,4 +3,4 @@ title: "Resume"
 format: html
 ---
 
-![](docs/Resume(2).pdf){fig-align="center" width="9in" height="10in"}
+![](docs/"resume-5-3-26.pdf"){fig-align="center" width="9in" height="10in"}
