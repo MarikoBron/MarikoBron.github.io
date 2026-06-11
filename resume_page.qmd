@@ -5,3 +5,4 @@ format: html
 
 <iframe src="files/resume-5-3-26.pdf" width="100%" height="900px"></iframe>
 
+[Download Resume](files/resume-5-3-26.pdf)
